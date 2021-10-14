@@ -1,7 +1,8 @@
 ## Olá eu sou a Ana Julia Massaro! 😀
 
-- 🔭 Desenvolvedora full-stack
-- 🌱 Estudando Python e R com foco em IA (Inteligência artificial)
+- ‍💻 Desenvolvedora full-stack
+- ☁ Experiência com computação em nuvem | AWS
+- 📚 Estudando Python e R com foco em IA (Inteligência artificial)
 
 <div>
   <a href="https://github.com/AnaMassaro">
@@ -14,8 +15,10 @@
   <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ana-R" height="30" width="30" src="https://img.icons8.com/external-becris-lineal-color-becris/64/000000/external-r-data-science-becris-lineal-color-becris.png">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ana-Flask" height="30" width="30" src="https://img.icons8.com/cute-clipart/50/000000/flask.png">
+ 
 </div>
   
   ##  

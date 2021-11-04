@@ -2,7 +2,6 @@
 
 - ‍💻 Desenvolvedora full-stack
 - ☁ Experiência com computação em nuvem | AWS
-- 📚 Estudando Python e R com foco em IA (Inteligência artificial)
 
 <div>
   <a href="https://github.com/AnaMassaro">

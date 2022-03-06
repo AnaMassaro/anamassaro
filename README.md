@@ -1,4 +1,4 @@
-## Olá eu sou a Ana Julia Massaro! 😀
+## Olá eu sou a Ana! 😀
 
 - ‍💻 Desenvolvedora full-stack
 - ☁ Experiência com computação em nuvem | AWS

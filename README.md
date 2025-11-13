@@ -27,8 +27,6 @@ Formada em **Análise e Desenvolvimento de Sistemas**, com **Pós-Graduação em
 
 ---
 
-</br>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/ana-julia-massaro/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
